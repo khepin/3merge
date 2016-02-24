@@ -34,6 +34,7 @@ import Native.Array
 import Basics exposing (..)
 import Maybe exposing (..)
 import List
+import Bob
 
 {-| Representation of fast immutable arrays. You can create arrays of integers
 (`Array Int`) or strings (`Array String`) or any other type of value you can
